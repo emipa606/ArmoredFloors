@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Armored Floors (Continued)</name>
+  <packageId>Mlie.ArmoredFloors</packageId>
+  <author>the_codewarrior</author>
+  <url>https://github.com/emipa606/ArmoredFloors</url>
+  <supportedVersions>
+    <li>1.1</li>
+    <li>1.2</li>
+    <li>1.3</li>
+    <li>1.4</li>
+    <li>1.5</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+      <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>brrainz.harmony</li>
+  </loadAfter>
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
+Update of the_codewarriors mod https://steamcommunity.com/sharedfiles/filedetails/?id=2011863224
+Based on the update by dhl219 https://steamcommunity.com/sharedfiles/filedetails/?id=2910219893
+
+[img]https://i.imgur.com/pufA0kM.png[/img]
+
+[table]
+    [tr][td][url=https://dsc.gg/mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td] [td][url=https://github.com/emipa606/ArmoredFloors][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+    [/tr]
+    [tr]
+        [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
+        [td][img]https://i.imgur.com/Be8E2qJ.png[/img][/td]
+    [/tr]
+[/table]
+	
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
+Armor plating for your floors to keep those beastly burrowing bugs out of your base. Turns out all it takes is two inches of steel-plasteel composite to keep the pesky critters out!
+
+Armored floors will prevent infestations on tiles with overhead mountains. Note that these tiles only prevent the [i]event[/i] from occurring at the tile, so hives can still spawn on them if an infestation event happens nearby. The tiles are moderately pricey, costing four steel and two plasteel each, so bricking in large areas will be out of the question until later game, ensuring that building underground doesn’t become a complete non-issue.
+
+[h1]Why?[/h1]
+Infestations are bad enough, but an infestation inside your own home can be catastrophic. For this reason it’s generally optimal to avoid overhead mountain like the plague, quickly bricking up any of it that gets accidentally exposed. This, in my opinion, is boring. “You can destroy that wall, but you’re absolutely going to get your base gutted by the next infestation if you do” doesn’t seem like an interesting problem. Looking at the existing solutions I wasn't satisfied, since generally they seem to either make overhead mountain a complete non-issue (e.g. by allowing you to just remove it) or consist of some sort of mumbo-jumbo powered “anti infestation machine”. So I created Armored Floors, which is designed to be simple, useful, make sense, and not just straight up nullify the issue.
+
+[h1]Extending[/h1]
+The infestation-blocking properties of armored floors can be added to any floor using mods (Armored Floors itself doesn't provide an interface for this, it requires patching the floor defs). All that's needed is for the floor def to have the InfestationBlocker tag.
+
+[img]https://imgur.com/Eh3d6nU.gif[/img]
+
+[img]https://i.imgur.com/PwoNOj4.png[/img]
+[list]
+[*] See if the the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] or the standalone [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Uploader[/url] and command Ctrl+F12
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[*] Use [url=https://github.com/RimSort/RimSort/releases/latest]RimSort[/url] to sort your mods
+[/list]</description>
+  <modVersion IgnoreIfNoMatchingField="True">1.5.0</modVersion>
+</ModMetaData>
