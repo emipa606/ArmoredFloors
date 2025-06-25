@@ -10,6 +10,7 @@
     <li>1.3</li>
     <li>1.4</li>
     <li>1.5</li>
+    <li>1.6</li>
   </supportedVersions>
   <modDependencies>
     <li>
@@ -25,6 +26,8 @@
   <description>[img]https://i.imgur.com/buuPQel.png[/img]
 Update of the_codewarriors mod https://steamcommunity.com/sharedfiles/filedetails/?id=2011863224
 Based on the update by dhl219 https://steamcommunity.com/sharedfiles/filedetails/?id=2910219893
+
+Also includes the armored foundation added in the version by dhl219 allowing you to have armored floor effect for all floors.
 
 [img]https://i.imgur.com/pufA0kM.png[/img]
 
@@ -59,6 +62,8 @@ The infestation-blocking properties of armored floors can be added to any floor 
 [*] Do not report errors by making a discussion-thread, I get no notification of that.
 [*] If you have the solution for a problem, please post it to the GitHub repository.
 [*] Use [url=https://github.com/RimSort/RimSort/releases/latest]RimSort[/url] to sort your mods
-[/list]</description>
-  <modVersion IgnoreIfNoMatchingField="True">1.5.0</modVersion>
+[/list] 
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3414421281][img]https://img.shields.io/github/v/release/emipa606/ArmoredFloors?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url] | tags:  infestations</description>
+  <modVersion IgnoreIfNoMatchingField="True">1.6.0</modVersion>
 </ModMetaData>

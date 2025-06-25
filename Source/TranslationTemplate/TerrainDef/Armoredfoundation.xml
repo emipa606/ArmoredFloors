@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Armored Foundation -->
+  <Armored_foundation.label>Armored Foundation</Armored_foundation.label>
+  <!-- EN: Enables floor to be placed on top -->
+  <Armored_foundation.description>Enables floor to be placed on top</Armored_foundation.description>
+  <!-- EN: Replace with stony soil -->
+  <remove_foundation.label>Replace with stony soil</remove_foundation.label>
+  <!-- EN: Remove the armored foundation -->
+  <remove_foundation.description>Remove the armored foundation</remove_foundation.description>
+  <!-- EN: gravel -->
+  <remove_foundation.tools.gravel.label>gravel</remove_foundation.tools.gravel.label>
+</LanguageData>

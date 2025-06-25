@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: armored floor -->
+  <ArmoredFloor.label>armored floor</ArmoredFloor.label>
+  <!-- EN: Thick armor plating. Excelent at keeping bugs out of overhead mountain tiles and netural in terms of looks, but very slow to build. -->
+  <ArmoredFloor.description>Thick armor plating. Excelent at keeping bugs out of overhead mountain tiles and netural in terms of looks, but very slow to build.</ArmoredFloor.description>
+  <!-- EN: armored blue carpet -->
+  <CarpetBlueArmored.label>armored blue carpet</CarpetBlueArmored.label>
+  <!-- EN: Toe-hugging plush carpet in a cool blue color with armored underlay. -->
+  <CarpetBlueArmored.description>Toe-hugging plush carpet in a cool blue color with armored underlay.</CarpetBlueArmored.description>
+  <!-- EN: armored cream carpet -->
+  <CarpetCreamArmored.label>armored cream carpet</CarpetCreamArmored.label>
+  <!-- EN: Inviting cream-colored carpet with armored underlay. -->
+  <CarpetCreamArmored.description>Inviting cream-colored carpet with armored underlay.</CarpetCreamArmored.description>
+  <!-- EN: armored dark carpet -->
+  <CarpetDarkArmored.label>armored dark carpet</CarpetDarkArmored.label>
+  <!-- EN: Professional-looking dark gray carpet with armored underlay. -->
+  <CarpetDarkArmored.description>Professional-looking dark gray carpet with armored underlay.</CarpetDarkArmored.description>
+  <!-- EN: armored green carpet -->
+  <CarpetGreenArmored.label>armored green carpet</CarpetGreenArmored.label>
+  <!-- EN: Naturalistic-feeling green carpet. Earth tones, dude. With armored underlay. -->
+  <CarpetGreenArmored.description>Naturalistic-feeling green carpet. Earth tones, dude. With armored underlay.</CarpetGreenArmored.description>
+  <!-- EN: armored red carpet -->
+  <CarpetRedArmored.label>armored red carpet</CarpetRedArmored.label>
+  <!-- EN: Plush carpet in a lovely rose hue with armored underlay. -->
+  <CarpetRedArmored.description>Plush carpet in a lovely rose hue with armored underlay.</CarpetRedArmored.description>
+  <!-- EN: armored concrete -->
+  <ConcreteArmored.label>armored concrete</ConcreteArmored.label>
+  <!-- EN: Rough concrete with an armored underlay. -->
+  <ConcreteArmored.description>Rough concrete with an armored underlay.</ConcreteArmored.description>
+  <!-- EN: armored granite flagstone -->
+  <FlagstoneGraniteArmored.label>armored granite flagstone</FlagstoneGraniteArmored.label>
+  <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
+  <FlagstoneGraniteArmored.description>Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources.</FlagstoneGraniteArmored.description>
+  <!-- EN: armored limestone flagstone -->
+  <FlagstoneLimestoneArmored.label>armored limestone flagstone</FlagstoneLimestoneArmored.label>
+  <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
+  <FlagstoneLimestoneArmored.description>Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources.</FlagstoneLimestoneArmored.description>
+  <!-- EN: armored marble flagstone -->
+  <FlagstoneMarbleArmored.label>armored marble flagstone</FlagstoneMarbleArmored.label>
+  <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
+  <FlagstoneMarbleArmored.description>Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources.</FlagstoneMarbleArmored.description>
+  <!-- EN: armored sandstone flagstone -->
+  <FlagstoneSandstoneArmored.label>armored sandstone flagstone</FlagstoneSandstoneArmored.label>
+  <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
+  <FlagstoneSandstoneArmored.description>Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources.</FlagstoneSandstoneArmored.description>
+  <!-- EN: armored slate flagstone -->
+  <FlagstoneSlateArmored.label>armored slate flagstone</FlagstoneSlateArmored.label>
+  <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
+  <FlagstoneSlateArmored.description>Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources.</FlagstoneSlateArmored.description>
+  <!-- EN: armored gold tile -->
+  <GoldTileArmored.label>armored gold tile</GoldTileArmored.label>
+  <!-- EN: For overbearing extravagance, nothing beats gold tiles. They are exceptionally expensive, and exceptionally beautiful, and people will think you're exceptionally snobbish if you actually live on them. With armored underlay. -->
+  <GoldTileArmored.description>For overbearing extravagance, nothing beats gold tiles. They are exceptionally expensive, and exceptionally beautiful, and people will think you're exceptionally snobbish if you actually live on them. With armored underlay.</GoldTileArmored.description>
+  <!-- EN: armored steel tile -->
+  <MetalTileArmored.label>armored steel tile</MetalTileArmored.label>
+  <!-- EN: Steel tiles, for that spaceship look. They are pretty, and the smooth tile surface gets a bonus to cleanliness. With armored underlay. -->
+  <MetalTileArmored.description>Steel tiles, for that spaceship look. They are pretty, and the smooth tile surface gets a bonus to cleanliness. With armored underlay.</MetalTileArmored.description>
+  <!-- EN: armored paved tile -->
+  <PavedTileArmored.label>armored paved tile</PavedTileArmored.label>
+  <!-- EN: Concrete tiles with armored underlay. Cheap, but neutral in terms of looks and slow to build. -->
+  <PavedTileArmored.description>Concrete tiles with armored underlay. Cheap, but neutral in terms of looks and slow to build.</PavedTileArmored.description>
+  <!-- EN: armored silver tile -->
+  <SilverTileArmored.label>armored silver tile</SilverTileArmored.label>
+  <!-- EN: For a futuristic but royal look, silver tiles fit perfectly into luxurious rooms. They get a bonus to cleanliness. With armored underlay. -->
+  <SilverTileArmored.description>For a futuristic but royal look, silver tiles fit perfectly into luxurious rooms. They get a bonus to cleanliness. With armored underlay.</SilverTileArmored.description>
+  <!-- EN: armored sterile tile -->
+  <SterileTileArmored.label>armored sterile tile</SterileTileArmored.label>
+  <!-- EN: Sterile tiles with special cleanliness-enhancing properties. Extra-clean rooms improve outcomes in hospitals and research labs. This tile is very slow to build. With armored underlay. -->
+  <SterileTileArmored.description>Sterile tiles with special cleanliness-enhancing properties. Extra-clean rooms improve outcomes in hospitals and research labs. This tile is very slow to build. With armored underlay.</SterileTileArmored.description>
+  <!-- EN: armored granite tile -->
+  <TileGraniteArmored.label>armored granite tile</TileGraniteArmored.label>
+  <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
+  <TileGraniteArmored.description>Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay.</TileGraniteArmored.description>
+  <!-- EN: armored limestone tile -->
+  <TileLimestoneArmored.label>armored limestone tile</TileLimestoneArmored.label>
+  <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
+  <TileLimestoneArmored.description>Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay.</TileLimestoneArmored.description>
+  <!-- EN: armored marble tile -->
+  <TileMarbleArmored.label>armored marble tile</TileMarbleArmored.label>
+  <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
+  <TileMarbleArmored.description>Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay.</TileMarbleArmored.description>
+  <!-- EN: armored sandstone tile -->
+  <TileSandstoneArmored.label>armored sandstone tile</TileSandstoneArmored.label>
+  <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
+  <TileSandstoneArmored.description>Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay.</TileSandstoneArmored.description>
+  <!-- EN: armored slate tile -->
+  <TileSlateArmored.label>armored slate tile</TileSlateArmored.label>
+  <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
+  <TileSlateArmored.description>Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay.</TileSlateArmored.description>
+  <!-- EN: armored wood floor -->
+  <WoodPlankFloorArmored.label>armored wood floor</WoodPlankFloorArmored.label>
+  <!-- EN: Wood plank flooring for that warm, homey feeling. While it is quick to lay, it is also very flammable. With armored underlay. -->
+  <WoodPlankFloorArmored.description>Wood plank flooring for that warm, homey feeling. While it is quick to lay, it is also very flammable. With armored underlay.</WoodPlankFloorArmored.description>
+</LanguageData>

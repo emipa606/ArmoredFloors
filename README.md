@@ -1,9 +1,11 @@
-# [Armored Floors (Continued)]()
+# [Armored Floors (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=3414421281)
 
 ![Image](https://i.imgur.com/buuPQel.png)
 
 Update of the_codewarriors mod https://steamcommunity.com/sharedfiles/filedetails/?id=2011863224
 Based on the update by dhl219 https://steamcommunity.com/sharedfiles/filedetails/?id=2910219893
+
+Also includes the armored foundation added in the version by dhl219 allowing you to have armored floor effect for all floors.
 
 ![Image](https://i.imgur.com/pufA0kM.png)
 	
@@ -35,4 +37,6 @@ The infestation-blocking properties of armored floors can be added to any floor 
 -  If you have the solution for a problem, please post it to the GitHub repository.
 -  Use [RimSort](https://github.com/RimSort/RimSort/releases/latest) to sort your mods
 
+ 
 
+[![Image](https://img.shields.io/github/v/release/emipa606/ArmoredFloors?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/3414421281) | tags:  infestations
