@@ -23,24 +23,24 @@
   <loadAfter>
     <li>brrainz.harmony</li>
   </loadAfter>
-  <description>[img]https://i.imgur.com/buuPQel.png[/img]
+  <description>[img]https://img.litet.net/logos/Info.png[/img]
 Update of the_codewarriors mod https://steamcommunity.com/sharedfiles/filedetails/?id=2011863224
 Based on the update by dhl219 https://steamcommunity.com/sharedfiles/filedetails/?id=2910219893
 
 Also includes the armored foundation added in the version by dhl219 allowing you to have armored floor effect for all floors.
 
-[img]https://i.imgur.com/pufA0kM.png[/img]
+[img]https://img.litet.net/logos/Notice.png[/img]
 
 [table]
-    [tr][td][url=https://dsc.gg/mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td] [td][url=https://github.com/emipa606/ArmoredFloors][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+    [tr][td][url=https://discord.gg/h5TY6DA][img]https://img.litet.net/logos/Discord.png[/img][/url][/td] [td][url=https://github.com/emipa606/ArmoredFloors][img]https://img.litet.net/logos/Github.png[/img][/url][/td]
     [/tr]
     [tr]
-        [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
-        [td][img]https://i.imgur.com/Be8E2qJ.png[/img][/td]
+        [td][img]https://img.litet.net/logos/SafeToAdd.png[/img][/td]
+        [td][img]https://img.litet.net/logos/RemoveMayWork.png[/img][/td]
     [/tr]
 [/table]
 	
-[img]https://i.imgur.com/Z4GOv8H.png[/img]
+[img]https://img.litet.net/logos/OriginalDescription.png[/img]
 Armor plating for your floors to keep those beastly burrowing bugs out of your base. Turns out all it takes is two inches of steel-plasteel composite to keep the pesky critters out!
 
 Armored floors will prevent infestations on tiles with overhead mountains. Note that these tiles only prevent the [i]event[/i] from occurring at the tile, so hives can still spawn on them if an infestation event happens nearby. The tiles are moderately pricey, costing four steel and two plasteel each, so bricking in large areas will be out of the question until later game, ensuring that building underground doesn’t become a complete non-issue.
@@ -51,19 +51,19 @@ Infestations are bad enough, but an infestation inside your own home can be cata
 [h1]Extending[/h1]
 The infestation-blocking properties of armored floors can be added to any floor using mods (Armored Floors itself doesn't provide an interface for this, it requires patching the floor defs). All that's needed is for the floor def to have the InfestationBlocker tag.
 
-[img]https://imgur.com/Eh3d6nU.gif[/img]
+[img]https://img.litet.net/Eh3d6nU.gif[/img]
 
-[img]https://i.imgur.com/PwoNOj4.png[/img]
+[img]https://img.litet.net/logos/ReportingIssues.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
-[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] or the standalone [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Uploader[/url] and command Ctrl+F12
+[*] Always post your log using the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Log Uploader[/url]
 [*] For best support, please use the Discord-channel for error-reporting.
 [*] Do not report errors by making a discussion-thread, I get no notification of that.
 [*] If you have the solution for a problem, please post it to the GitHub repository.
 [*] Use [url=https://github.com/RimSort/RimSort/releases/latest]RimSort[/url] to sort your mods
 [/list] 
 
-[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3414421281][img]https://img.shields.io/github/v/release/emipa606/ArmoredFloors?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url] | tags:  infestations</description>
-  <modVersion IgnoreIfNoMatchingField="True">1.6.0</modVersion>
+[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3414421281][img]https://img.shields.io/github/v/release/emipa606/ArmoredFloors?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url] | tags: infestations</description>
+  <modVersion IgnoreIfNoMatchingField="True">1.6.1</modVersion>
 </ModMetaData>

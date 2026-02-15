@@ -1,15 +1,15 @@
 # [Armored Floors (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=3414421281)
 
-![Image](https://i.imgur.com/buuPQel.png)
+![Image](https://img.litet.net/logos/Info.png)
 
 Update of the_codewarriors mod https://steamcommunity.com/sharedfiles/filedetails/?id=2011863224
 Based on the update by dhl219 https://steamcommunity.com/sharedfiles/filedetails/?id=2910219893
 
 Also includes the armored foundation added in the version by dhl219 allowing you to have armored floor effect for all floors.
 
-![Image](https://i.imgur.com/pufA0kM.png)
+![Image](https://img.litet.net/logos/Notice.png)
 	
-![Image](https://i.imgur.com/Z4GOv8H.png)
+![Image](https://img.litet.net/logos/OriginalDescription.png)
 
 Armor plating for your floors to keep those beastly burrowing bugs out of your base. Turns out all it takes is two inches of steel-plasteel composite to keep the pesky critters out!
 
@@ -23,15 +23,15 @@ Infestations are bad enough, but an infestation inside your own home can be cata
 
 The infestation-blocking properties of armored floors can be added to any floor using mods (Armored Floors itself doesn't provide an interface for this, it requires patching the floor defs). All that's needed is for the floor def to have the InfestationBlocker tag.
 
-![Image](https://imgur.com/Eh3d6nU.gif)
+![Image](https://img.litet.net/Eh3d6nU.gif)
 
-![Image](https://i.imgur.com/PwoNOj4.png)
+![Image](https://img.litet.net/logos/ReportingIssues.png)
 
 
 
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using [HugsLib](https://steamcommunity.com/workshop/filedetails/?id=818773962) or the standalone [Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
+-  Always post your log using the [Log Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404)
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
@@ -39,4 +39,4 @@ The infestation-blocking properties of armored floors can be added to any floor 
 
  
 
-[![Image](https://img.shields.io/github/v/release/emipa606/ArmoredFloors?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/3414421281) | tags:  infestations
+[![Image](https://img.shields.io/github/v/release/emipa606/ArmoredFloors?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/3414421281) | tags: infestations
