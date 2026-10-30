@@ -7,6 +7,8 @@ Based on the update by dhl219 https://steamcommunity.com/sharedfiles/filedetails
 
 Also includes the armored foundation added in the version by dhl219 allowing you to have armored floor effect for all floors.
 
+If Anomaly is loaded, it will also block the Pit Gate.
+
 ![Image](https://img.litet.net/logos/Notice.png)
 	
 ![Image](https://img.litet.net/logos/OriginalDescription.png)
@@ -39,4 +41,4 @@ The infestation-blocking properties of armored floors can be added to any floor 
 
  
 
-[![Image](https://img.shields.io/github/v/release/emipa606/ArmoredFloors?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/3414421281) | tags: infestations
+[![Image](https://img.shields.io/github/v/release/emipa606/ArmoredFloors?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/3414421281) | infestations

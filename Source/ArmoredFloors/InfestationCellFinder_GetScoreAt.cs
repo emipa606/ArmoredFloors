@@ -5,7 +5,7 @@ using Verse;
 namespace ArmoredFloors;
 
 [HarmonyPatch(typeof(InfestationCellFinder), "GetScoreAt")]
-internal class InfestationCellFinder_GetScoreAt
+internal static class InfestationCellFinder_GetScoreAt
 {
     public static void Postfix(IntVec3 cell, Map map, ref float __result)
     {

@@ -6,7 +6,7 @@ using Verse;
 namespace ArmoredFloors;
 
 [HarmonyPatch(typeof(LargeBuildingCellFinder), nameof(LargeBuildingCellFinder.TryFindCell))]
-internal class LargeBuildingCellFinder_TryFindCell
+internal static class LargeBuildingCellFinder_TryFindCell
 {
     public static void Prefix(Map map, LargeBuildingSpawnParms parms, ref Predicate<IntVec3> extraValidator)
     {
